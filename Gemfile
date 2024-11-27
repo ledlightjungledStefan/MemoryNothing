@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem 'minima', '~> 2.5', '>= 2.5.2'
+gem 'jekyll-default-layout', '~> 0.1.5'
