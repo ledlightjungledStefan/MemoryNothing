@@ -2,4 +2,4 @@
 
 source 'https://rubygems.org'
 
-gem 'ffi', '~> 1.17'
+gem 'jekyll', '~> 4.3', '>= 4.3.4'
