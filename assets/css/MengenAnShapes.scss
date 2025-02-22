@@ -1,0 +1,25 @@
+.couponcode {
+    color: red;
+    cursor: pointer;
+}
+
+.couponcode:hover .coupontooltip {
+    display: block;
+}
+
+.coupontooltip {
+    position: absolute;
+    white-space: nowrap;
+    display: none;
+    background: #ffffcc;
+    border: 1px solid black;
+    color: black;
+    padding: 5px;
+    z-index: 1000;
+}
+
+section {
+    background-color: coral;
+}
+
+.seperator {}
