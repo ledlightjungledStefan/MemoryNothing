@@ -1,5 +1,5 @@
 ---
-layout: who needs_whoes
+layout: default
 ---
 
 ## Welcome to another page
