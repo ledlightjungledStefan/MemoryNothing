@@ -10,9 +10,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Ball Farbübergänge und Strike.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Die Bewegungen zur Mitte der Gegenstände,
+ist eine Wahl für Aggergationen aktiv. In der Mitte den Weg zu verlassen ist ein leben
+des Gleichgewichts zwischen dem größten gemeinsamen Teiler und dem kleinsten
+gemeinsamen Vielfachen.
+Um einen lebensfeindlichen Bereich queren zu können, ist der Kommunikation zugeordnet das Kronenchakra viel weniger zu berücksichtigen als zum Beispiel das Wurzelchakra.
+Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wasser UND Luft. 99% der Körperform sind nicht 1% der Polygonen mit einem Gerätemanagmentzeichen.
 
 ## Header 2
 
@@ -49,11 +54,11 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Geräte sollten noch einmal angemeldet werden. OEM.
 
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
+* <hauptschluessel wert="deinHauptschluessel" />
+* <passwort wert="deinPasswort" />
+* <credentials>
 
 ##### Header 5
 
