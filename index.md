@@ -17,12 +17,19 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## Header 2
 
 > This is a blockquote following a header.
->
+> 
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Seit Einstein ist das Wort Zeit wichtiger.
 
 ```js
+//. . .das ist eine Kommentarzeile \&\g\t\; `&``g``t`;`
+//. . .ich setzte Kommentaranfangszeichen, weil ich ohne SEO
+//. . .die KommentarENDzeichen nicht kenne.
+//. . .\ ist ein "escape" Zeichen
+//. . .` ist ein inline Zeichen
+//. . .es gibt die Seite SS64 um das Verhalten ein wenig zu studieren.
+
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
@@ -32,6 +39,11 @@ var fun = function lang(l) {
 
 ```ruby
 # Ruby code with syntax highlighting
+# mit notepad das Thema automatisches Umschalten nach dem Einfügen
+# aus dem oder einem Zwischenspeicher erkennen lernen zu können.
+# Zwischenspeicher können auf das Speichern eines Datentypens trim,
+# angepasst werden.
+
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
@@ -39,20 +51,20 @@ end
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* This is an unordered list following a header.
+* This is an unordered list following a header.
+* This is an unordered list following a header.
 
 ##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1. This is an ordered list following a header.
+2. This is an ordered list following a header.
+3. This is an ordered list following a header.
 
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+|:------------ |:----------------- |:----- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -64,17 +76,17 @@ end
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+* Item foo
+* Item bar
+* Item baz
+* Item zip
 
 ### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1. Item one
+2. Item two
+3. Item three
+4. Item four
 
 ### And a nested list:
 
@@ -99,7 +111,6 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
