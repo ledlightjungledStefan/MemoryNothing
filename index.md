@@ -19,11 +19,19 @@ gemeinsamen Vielfachen.
 Um einen lebensfeindlichen Bereich queren zu können, ist der Kommunikation zugeordnet das Kronenchakra viel weniger zu berücksichtigen als zum Beispiel das Wurzelchakra.
 Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wasser UND Luft. 99% der Körperform sind nicht 1% der Polygonen mit einem Gerätemanagmentzeichen.
 
-## Header 2
+## Makros sind mit Windows eine Linux Oberfläche
 
-> This is a blockquote following a header.
+> Comma-separated values CSV sollten studiert werden ist meine Empfehlung.
+> Word kann verwendet werden um CSS Dateien mit XML zu verwenden.
+> Beim Umschalten von einem Bild zum nächsten und wieder zurück,
+> würde der Inhalt einer CSV Datei in einer Tabelle ausgegeben werden.
 > 
-> When something is important enough, you do it even if the odds are not in your favor.
+> Auch wenn nicht alle anderen Funktionen ausgeblendet werden können,
+> mit dem Windows Explorer kann ein Ordner erstellt werden und mit makiertem Detailbereich der Ansicht die Menge des Ordners auf der rechten Seite beachtet werden.
+> 
+> Nach dem Wählen des übergeordneten Ordners ist der Name des neu erstellten Ordners noch einmal im Detailbereich auf der rechten Siete geladen.
+> 
+> Somit ist eine passives wie aktives erinnerun möglich nach dem Verlassen des Ordners in eine übergeordnete Ordnerstruktur.
 
 ### Seit Einstein ist das Wort Zeit wichtiger.
 
@@ -60,11 +68,11 @@ end
 * <passwort wert="deinPasswort" />
 * <credentials>
 
-##### Header 5
+##### Verknüpfungen können Hinweise auf Lizenzen sein.
 
-1. This is an ordered list following a header.
-2. This is an ordered list following a header.
-3. This is an ordered list following a header.
+1. Lizenzen sollten für aktives lernen nur nach Möglichkeit nicht alleine sein zu müssen ausgegeben werden.
+2. Zip Dateien können mit Verknüpfungen gefüllt werden. Verknüpfungen nicht mit Verknüpfungen überschrieben.
+3. Pif Dateine fassen nur Dateien mit bestimmten Dateierweiterungen zusammen.
 
 ###### Header 6
 
