@@ -81,12 +81,12 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
-|:------------ |:----------------- |:----- |
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| ![bold](C:\Users\plane\OneDrive\Desktop\favico.png) |                                                            | conclusion                                |
+|:--------------------------------------------------- |:---------------------------------------------------------- |:----------------------------------------- |
+| **asumption**                                       | Ein Strike nach einem Farbverlauf ist ein Prozess.         | Welcher?                                  |
+|                                                     | Das Ikon der waybackmachine Seite ist links oben.          | Das Layout rechts unten ist kein Designe. |
+|                                                     | Tie figther Bügelmaschinen können Schnürsenkel reparieren. | Wozu?                                     |
+|                                                     | Gekaufte Gitarren stinken.                                 | Stimmt nicht. Signiert Snowboardmafia     |
 
 ### There's a horizontal rule below this.
 
