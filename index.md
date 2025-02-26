@@ -4,11 +4,16 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page to start TOOL TIPING. -klein Adlerauge-](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+(Why don't you love me), because the internet to be refreshed or in other words the
+content not synchronized, needs resolution. To resolve the issue you can. . .
+change a side to have a tooltip and the first tooltip text should be the content of a
+README file. If the README files content is to be changed an event with an about markdown file is on the edge. (A provided content has to be instant). -winter- -ac-
 
 # Ball Farbübergänge und Strike.
 
