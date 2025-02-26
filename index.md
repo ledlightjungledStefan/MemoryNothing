@@ -69,9 +69,9 @@ end
 
 #### Geräte sollten noch einmal angemeldet werden. OEM.
 
-* <hauptschluessel wert="deinHauptschluessel" />
-* <passwort wert="deinPasswort" />
-* <credentials>
+* \< hauptschluessel wert="deinHauptschluessel" \/\\>
+* \< passwort wert="deinPasswort" \/\\>
+* \< credentials wuzup \>
 
 ##### Verknüpfungen können Hinweise auf Lizenzen sein.
 
@@ -127,8 +127,6 @@ end
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ### Definition lists can be used with HTML syntax.
 
