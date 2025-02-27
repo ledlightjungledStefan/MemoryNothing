@@ -4,11 +4,35 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+[return - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
+
 [Link to another page to start TOOL TIPING. -klein Adlerauge-](./another-page.html).
 
-There should be whitespace between paragraphs.
+There should be whitespace between paragraphs. -by orderedlist-
+Patterns are checked sequentially. A pattern that negates a previous pattern will re-include file paths. -my addtional approach-
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<div>
+to define an entry point you first have to spot an endpoint before you should make a startpoint.
+front matter can be initiated with rectangles
+MyPersonalNaming Convention_config extension.yml
+var_config.yml is one file and and what is executed through a YAML file
+can be saved to different and more than one file.
+it is more about refreshing README files through webhooks than diving.
+</div>
+
+- [ ] to move without calculations
+
+- [ ] a big, small and icon picture should be one phonenumber dynamic
+  
+  for reading but static with the lock value. (optional under construction)
+
+- [ ] with front matters escaped diving through configurations until reaching
+  
+  back to a front matter and new code window
+
+- [ ] What is a switch for you, and LOG changes.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -by orderedlist-
 
 (Why don't you love me), because the internet to be refreshed or in other words the
 content not synchronized, needs resolution. To resolve the issue you can. . .
@@ -138,7 +162,7 @@ end
 <dt>Birthplace</dt>
 <dd>Japan</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>alonehwo</dd>
 </dl>
 
 ```
