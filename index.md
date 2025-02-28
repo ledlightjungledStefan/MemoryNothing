@@ -2,9 +2,10 @@
 layout: default
 ---
 
+[seite : aremediadefinitions_GRAMMARLYHELPS](./aremediadefinitions_GRAMMARLYHELPS.md).
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[return - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
+[return - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return).
 
 [Link to another page to start TOOL TIPING. -klein Adlerauge-](./another-page.html).
 
