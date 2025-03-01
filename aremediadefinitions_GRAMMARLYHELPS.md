@@ -1,15 +1,12 @@
 ---
 layout: default
+title: Additional Page with SVG
 ---
+
+# Willkommen auf der zusätzlichen Seite mit SVG
+
+Dies ist eine Beispielseite, die ein SVG-Layout verwendet.
+
 {% include svg_section.html %}
-
-
-# Hauptinhalt
-
-Hier kommt der Inhalt hin, der in das Hauptlayout passt.
-
-<!--{% include otherlayout1.html %}-->
-{% include header.html %}
-{% include footer.html %}
 
 [back](./)
