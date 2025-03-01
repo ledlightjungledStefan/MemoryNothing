@@ -1,0 +1,38 @@
+﻿<body>
+  <div>
+    <svg width="400" height="400">
+      <g id="shapes" class="draggable">
+        <circle cx="50" cy="50" r="20" fill="red" />
+        <rect x="100" y="100" width="50" height="50" fill="blue" />
+      </g>
+    </svg>
+  </div>
+
+  <script>
+    const shapes = document.getElementById('shapes');
+    let isDragging = false;
+    let offsetX, offsetY;
+
+    shapes.addEventListener('mousedown', (e) => {
+      isDragging = true;
+      offsetX = e.offsetX;
+      offsetY = e.offsetY;
+    });
+
+    document.addEventListener('mousemove', (e) => {
+      if (isDragging) {
+        const svg = shapes.parentNode;
+        const point = svg.createSVGPoint();
+        point.x = e.clientX;
+        point.y = e.clientY;
+        const matrix = svg.getScreenCTM().inverse();
+        const transformedPoint = point.matrixTransform(matrix);
+        shapes.setAttribute('transform', `translate(${transformedPoint.x - offsetX}, ${transformedPoint.y - offsetY})`);
+      }
+    });
+
+    document.addEventListener('mouseup', () => {
+      isDragging = false;
+    });
+  </script>
+</body>
