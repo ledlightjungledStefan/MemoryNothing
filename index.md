@@ -2,12 +2,13 @@
 layout: default
 ---
 
-[seite : aremediadefinitions_GRAMMARLYHELPS](./aremediadefinitions_GRAMMARLYHELPS.md).
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[seite : aremediadefinitions_GRAMMARLYHELPS](./aremediadefinitions_GRAMMARLYHELPS.md)
 
-[return - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return).
+Text can be **bold**, _italic_, or ~~strikethrough~~
 
-[Link to another page to start TOOL TIPING. -klein Adlerauge-](./another-page.html).
+[return - JavaScript|MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
+
+[Link to another page to start TOOL TIPING. -klein Adlerauge-](./another-page.html)
 
 There should be whitespace between paragraphs. -by orderedlist-
 Patterns are checked sequentially. A pattern that negates a previous pattern will re-include file paths. -my addtional approach-
