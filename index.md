@@ -34,8 +34,10 @@ HOLD RELEASE: I am all files, all files about my body
 
 The only relevance of white space is to separate [tokens](https://webassembly.github.io/spec/core/text/lexical.html#text-token). <mark>It is otherwise ignored</mark>.
 
-c d    c r
-p f    v b
+c        d    c        r
+
+
+p        f    v        b
 
 a crosssection between two rectangles, a square.
 and only two corners of two rectangles have to be maintained for a position.
@@ -46,6 +48,8 @@ Eigenname_config.yml, Abroad_config.yml and so on.
 </div>
 
 - [ ] to move without calculations
+  
+  #### Makros sind mit Windows eine Linux Oberfläche
 
 - [ ] re-include file paths
 
@@ -71,62 +75,29 @@ gemeinsamen Vielfachen.
 Um einen lebensfeindlichen Bereich queren zu können, ist der Kommunikation zugeordnet das Kronenchakra viel weniger zu berücksichtigen als zum Beispiel das Wurzelchakra.
 Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wasser UND Luft. 99% der Körperform sind nicht 1% der Polygonen mit einem Gerätemanagmentzeichen.
 
-## Makros sind mit Windows eine Linux Oberfläche
+### And a nested list:
 
-> Comma-separated values CSV sollten studiert werden ist meine Empfehlung.
-> Word kann verwendet werden um CSS Dateien mit XML zu verwenden.
-> Beim Umschalten von einem Bild zum nächsten und wieder zurück,
-> würde der Inhalt einer CSV Datei in einer Tabelle ausgegeben werden.
-> 
-> Auch wenn nicht alle anderen Funktionen ausgeblendet werden können,
-> mit dem Windows Explorer kann ein Ordner erstellt werden und mit makiertem Detailbereich der Ansicht die Menge des Ordners auf der rechten Seite beachtet werden.
-> 
-> Nach dem Wählen des übergeordneten Ordners ist der Name des neu erstellten Ordners noch einmal im Detailbereich auf der rechten Siete geladen.
-> 
-> Somit ist eine passives wie aktives erinnerun möglich nach dem Verlassen des Ordners in eine übergeordnete Ordnerstruktur.
-
-### Seit Einstein ist das Wort Zeit wichtiger.
-
-```js
-//. . .das ist eine Kommentarzeile \&\g\t\; `&``g``t`;`
-//. . .ich setzte Kommentaranfangszeichen, weil ich ohne SEO
-//. . .die KommentarENDzeichen nicht kenne.
-//. . .\ ist ein "escape" Zeichen
-//. . .` ist ein inline Zeichen
-//. . .es gibt die Seite SS64 um das Verhalten ein wenig zu studieren.
-
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-# mit notepad das Thema automatisches Umschalten nach dem Einfügen
-# aus dem oder einem Zwischenspeicher erkennen lernen zu können.
-# Zwischenspeicher können auf das Speichern eines Datentypens trim,
-# angepasst werden.
-
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- level 1 item
+  - level 2 item
+  - [Example]([How to: Open and append to a log file - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-open-and-append-to-a-log-file#example))
+    - [Test the build properties]([Create an MSBuild project file from scratch - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#test-the-build-properties))
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
 #### Geräte sollten noch einmal angemeldet werden. OEM.
 
-* \< hauptschluessel wert="deinHauptschluessel" \/\\>
-* \< passwort wert="deinPasswort" \/\\>
+* \< hauptschluessel wert="deinHauptschluessel" \>
+* \< passwort wert="deinPasswort" \>
 * \< credentials wuzup \>
 
-##### Verknüpfungen können Hinweise auf Lizenzen sein.
-
-1. Lizenzen sollten für aktives lernen nur nach Möglichkeit nicht alleine sein zu müssen ausgegeben werden.
-2. Zip Dateien können mit Verknüpfungen gefüllt werden. Verknüpfungen nicht mit Verknüpfungen überschrieben.
-3. Pif Dateine fassen nur Dateien mit bestimmten Dateierweiterungen zusammen.
-
-###### Header 6
+**Header 6**
 
 | ![bold](C:\Users\plane\OneDrive\Desktop\favico.png) |                                                            | conclusion                                |
 |:--------------------------------------------------- |:---------------------------------------------------------- |:----------------------------------------- |
@@ -134,10 +105,6 @@ end
 |                                                     | Das Ikon der waybackmachine Seite ist links oben.          | Das Layout rechts unten ist kein Designe. |
 |                                                     | Tie figther Bügelmaschinen können Schnürsenkel reparieren. | Wozu?                                     |
 |                                                     | Gekaufte Gitarren stinken.                                 | Stimmt nicht. Signiert Snowboardmafia     |
-
-### There's a horizontal rule below this.
-
-* * *
 
 ### Here is an unordered list:
 
@@ -152,30 +119,6 @@ end
 2. Item two
 3. Item three
 4. Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
