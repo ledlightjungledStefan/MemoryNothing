@@ -6,7 +6,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~
 
-[return - JavaScript|MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
+[return_JavaScript_MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
 
 [Link to another page to start TOOL TIPING. -klein Adlerauge-](./another-page.html)
 
