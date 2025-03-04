@@ -11,22 +11,43 @@ Text can be **bold**, _italic_, or ~~strikethrough~~
 [Link to another page to start TOOL TIPING. -klein Adlerauge-](./another-page.html)
 
 There should be whitespace between paragraphs. -by orderedlist-
-Patterns are checked sequentially. A pattern that negates a previous pattern will re-include file paths. -my addtional approach-
+
+Patterns are checked sequentially.
+A pattern that negates a previous pattern will re-include file paths.
+-klein Adlerauge klappert Punkte-
+
+**Front Matter Defaults**
+
+```
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+```
+
+<mark>an empty string here means all files in the project</mark>
+HOLD RELEASE: I am all files, all files about my body
+
+[White Space]([Lexical Format &#8212; WebAssembly 2.0 (Draft 2025-01-28)](https://webassembly.github.io/spec/core/text/lexical.html#white-space))
+
+The only relevance of white space is to separate [tokens](https://webassembly.github.io/spec/core/text/lexical.html#text-token). <mark>It is otherwise ignored</mark>.
+
+c d    c r
+p f    v b
+
+a crosssection between two rectangles, a square.
+and only two corners of two rectangles have to be maintained for a position.
 
 <div>
-to define an entry point you first have to spot an endpoint before you should make a startpoint.
-front matter can be initiated with rectangles
-MyPersonalNaming Convention_config extension.yml
-var_config.yml is one file and and what is executed through a YAML file
-can be saved to different and more than one file.
-it is more about refreshing README files through webhooks than diving.
+_config.yml can be replaced case pending by two or more files.
+Eigenname_config.yml, Abroad_config.yml and so on.
 </div>
 
 - [ ] to move without calculations
 
-- [ ] a big, small and icon picture should be one phonenumber dynamic
-  
-  for reading but static with the lock value. (optional under construction)
+- [ ] re-include file paths
 
 - [ ] with front matters escaped diving through configurations until reaching
   
@@ -158,11 +179,11 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>-klein Adlerauge- ich</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1978</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>Europe</dd>
 <dt>Color</dt>
 <dd>alonehwo</dd>
 </dl>
