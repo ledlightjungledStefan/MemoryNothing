@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome MSBuild
 
-Der Inhalt einer css Zeile hat keinen direkten Wert also währe die erste README Datei im Inhalt Text ein Versuch den Fokus an Stelle eines instant Ereignises zu richten.
-README
-.
-txt
-Die untere Hälfte des Bildes im Bereich der Mitte ist gespeichert mit einem Datentyp string und der Attributausdruck "content" (ein Token), ist nicht der möglicherweise fehlende elektrische Prozessorwert.
+To weave, weben, spriter hat keine command-line, aber texturpacker als ballgymnastiker der tshirtdruck, kann in der command-line befehle unterstützen. (Eine Appwerbung zum Spiel Sherlock Holmes währe eine Erklärung, Sherlock wird verfolgt von einer Person die der statur fast ganz so ähnlich ist wie der verfolgte. Der verfolger hat eine Rabenmaske und wenn die Textur also der Mantel geändert, Textur verwendet wird muss die Bewegungsabfolge nicht neu abgetippt und gespeichert werden.)
+
+Mit inkscapes command-line wird das worddokument schon bekannte schriftarten attribut: verhalten, sind alle erlaubt auch ganz bunt gemischt (app garten gegen zombies 2 ist verkleidet als mumie wie fanden sie das?)
+
+[## Test the build properties](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#test-the-build-properties)
+
+[back](./)
 
 ```css
     .circle {
@@ -26,8 +28,11 @@ Die untere Hälfte des Bildes im Bereich der Mitte ist gespeichert mit einem Dat
       display: flex;
       align-items: center;
       justify-content: center;
+    /* <body>
+          <div class="circle"></div>
+       </body> */
     }
-
+    
     .circle::after {
       content: '';
       width: 75px;
@@ -45,28 +50,50 @@ Die untere Hälfte des Bildes im Bereich der Mitte ist gespeichert mit einem Dat
     }
 ```
 
-Der Tag ist nur dann ein Tag wenn das Element nicht eine Kopie eines Tages mit Slash ist in einer Zeile eines HTML Dokumentes.
 
-```
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-  </style>
-  <title>Kreis innerhalb eines Kreises</title>
-</head>
 
-<body>
-  <div class="circle"></div>
-</body>
 
-</html>
-```
 
-Zwischen dem einem Tag und einem Tag mit Slash könnten CSS Zeilen gespeichert werden. Für Attributwerte werden 1 TAG mit 1° Slash verwendet.
-Ein Strike ist mit einem Prozessor und angeschlossenen Geräten also auch einem elektrisch geführtem Bildschirm immer erst nach dem Farbverlauf.
 
-[back](./)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                          nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnjjjjjj                                                                                                                                                          z

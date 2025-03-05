@@ -14,6 +14,7 @@ There should be whitespace between paragraphs. -by orderedlist-
 
 Patterns are checked sequentially.
 A pattern that negates a previous pattern will re-include file paths.
+
 -klein Adlerauge klappert Punkte-
 
 **Front Matter Defaults**
@@ -59,12 +60,7 @@ Eigenname_config.yml, Abroad_config.yml and so on.
 
 - [ ] What is a switch for you, and LOG changes.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -by orderedlist-
 
-(Why don't you love me), because the internet to be refreshed or in other words the
-content not synchronized, needs resolution. To resolve the issue you can. . .
-change a side to have a tooltip and the first tooltip text should be the content of a
-README file. If the README files content is to be changed an event with an about markdown file is on the edge. (A provided content has to be instant). -winter- -ac-
 
 # Ball Farbübergänge und Strike.
 
@@ -79,8 +75,8 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
 
 - level 1 item
   - level 2 item
-  - [Example]([How to: Open and append to a log file - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-open-and-append-to-a-log-file#example))
-    - [Test the build properties]([Create an MSBuild project file from scratch - MSBuild | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#test-the-build-properties))
+  - [Example](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-open-and-append-to-a-log-file#example)
+    - [Test the build properties](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#test-the-build-properties)
     - level 3 item
 - level 1 item
   - level 2 item
@@ -99,12 +95,12 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
 
 **Header 6**
 
-| ![bold](C:\Users\plane\OneDrive\Desktop\favico.png) |                                                            | conclusion                                |
-|:--------------------------------------------------- |:---------------------------------------------------------- |:----------------------------------------- |
-| **asumption**                                       | Ein Strike nach einem Farbverlauf ist ein Prozess.         | Welcher?                                  |
-|                                                     | Das Ikon der waybackmachine Seite ist links oben.          | Das Layout rechts unten ist kein Designe. |
-|                                                     | Tie figther Bügelmaschinen können Schnürsenkel reparieren. | Wozu?                                     |
-|                                                     | Gekaufte Gitarren stinken.                                 | Stimmt nicht. Signiert Snowboardmafia     |
+|               |                                                            | conclusion                                |
+|:------------- |:---------------------------------------------------------- |:----------------------------------------- |
+| **asumption** | Ein Strike nach einem Farbverlauf ist ein Prozess.         | Welcher?                                  |
+|               | Das Ikon der waybackmachine Seite ist links oben.          | Das Layout rechts unten ist kein Designe. |
+|               | Tie figther Bügelmaschinen können Schnürsenkel reparieren. | Wozu?                                     |
+|               | Gekaufte Gitarren stinken.                                 | Stimmt nicht. Signiert Snowboardmafia     |
 
 ### Here is an unordered list:
 
