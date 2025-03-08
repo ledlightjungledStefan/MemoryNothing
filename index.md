@@ -37,7 +37,6 @@ The only relevance of white space is to separate [tokens](https://webassembly.gi
 
 c        d    c        r
 
-
 p        f    v        b
 
 a crosssection between two rectangles, a square.
@@ -60,8 +59,6 @@ Eigenname_config.yml, Abroad_config.yml and so on.
 
 - [ ] What is a switch for you, and LOG changes.
 
-
-
 # Ball Farbübergänge und Strike.
 
 Die Bewegungen zur Mitte der Gegenstände,
@@ -79,13 +76,22 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
     - [Test the build properties](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#test-the-build-properties)
     - level 3 item
 - level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
+  - Now you can build the application by using the project file in which you used <mark>build properties</mark> to specify the output folder and application name.
+  - level 2 item - yours or mine
+  - level 2 item - do something
+  - build properties - what kind of properties have i build
+  - build properties - with or without naming conventions
 - level 1 item
+  - build properties to specify <mark>the output</mark> folder and application name.
+    - (tab for indend to level 3 item) - seperated to a folder CSV
   - level 2 item
-  - level 2 item
-- level 1 item
+    - and an applictaion
+    - or a name
+    - fullstop.
+    - DOT
+- 1. Test the application by typing **<mark>Bin\MSBuildSample**</mark> to run the executable.
+     
+     The **Hello, world!** message should be displayed.
 
 #### Geräte sollten noch einmal angemeldet werden. OEM.
 
