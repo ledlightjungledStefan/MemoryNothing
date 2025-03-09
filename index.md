@@ -71,27 +71,39 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
 ### And a nested list:
 
 - level 1 item
-  - level 2 item
+  
+  - [Add build targets](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#add-build-targets)
   - [Example](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-open-and-append-to-a-log-file#example)
     - [Test the build properties](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#test-the-build-properties)
     - level 3 item
+
 - level 1 item
-  - Now you can build the application by using the project file in which you used <mark>build properties</mark> to specify the output folder and application name.
-  - level 2 item - yours or mine
-  - level 2 item - do something
+  
+  - level 2 item
+  - level 2 item
+  - level 2 item
   - build properties - what kind of properties have i build
   - build properties - with or without naming conventions
+
 - level 1 item
-  - build properties to specify <mark>the output</mark> folder and application name.
-    - (tab for indend to level 3 item) - seperated to a folder CSV
+  
+  - level 2 item
   - level 2 item
     - and an applictaion
     - or a name
     - fullstop.
     - DOT
-- 1. Test the application by typing **<mark>Bin\MSBuildSample**</mark> to run the executable.
+
+- 1. level 1 item
      
-     The **Hello, world!** message should be displayed.
+     ### Here is an unordered list:
+     
+     - Item foo
+     - Item bar
+     - Test the application by typing **Bin\MSBuildSample** to run the executable.
+       
+       The **Hello, world!** message should be displayed.
+     - Now you can build the application by using the project file in which you used build properties to specify the output folder and application name.
 
 #### Geräte sollten noch einmal angemeldet werden. OEM.
 
@@ -108,19 +120,12 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
 |               | Tie figther Bügelmaschinen können Schnürsenkel reparieren. | Wozu?                                     |
 |               | Gekaufte Gitarren stinken.                                 | Stimmt nicht. Signiert Snowboardmafia     |
 
-### Here is an unordered list:
-
-* Item foo
-* Item bar
-* Item baz
-* Item zip
-
 ### And an ordered list:
 
-1. Item one
-2. Item two
+1. proof read
+2. Ireverse checkup
 3. Item three
-4. Item four
+4. language changes stay past changed link
 
 <dl>
 <dt>Name</dt>
