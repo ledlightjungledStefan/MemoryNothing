@@ -4,7 +4,29 @@ layout: default
 
 Hallo diese Seite ist dem Thema Binär gewidmet. Vor allem das sehr viele Programmiersprachen als unterschiedliche Deckel zu verstehen sind die trotzdem eine Binärdatei, einlesen können. Sprich Papier is geduldig, Schriftarten nicht immer.
 
+###### LEVEL EINS BASEMENT
 
+Ein Schildkrötgymnastikball.
+
+assumption : ist eine fläche auf einer wand mit dem elbogen, der schulter, und der hand erreichbar?
+
+conclusion : mit oder ohne ball, mit oder ohne ball touchdown
+
+##### LEVEL ZWEI MARKIERUNG
+
+Ein portable mini printer.
+
+assumption:was ist das?
+
+conclusion:ein divan ist eine sitzgelegenheit.
+
+#### LEVEL DREI ERRINERUNGEN MUESSEN NICHT GELD SEIN
+
+Definierte Listen. Oder auch nicht.
+
+assumption:ich bin ok du bist ok, eigenschaften sind nicht eigenheiten.
+
+conclusion:einen dokumentierten paragraphen mit eigenen wörtern und wortkreationen zieren können, oder ein worddokument erstellen oder und. . .
 
 [seite : aremediadefinitions_GRAMMARLYHELPS](./aremediadefinitions_GRAMMARLYHELPS.md)
 
