@@ -14,11 +14,11 @@ conclusion : mit oder ohne ball, mit oder ohne ball touchdown
 
 ##### LEVEL ZWEI MARKIERUNG
 
-Ein portable mini printer.
+Ein portable mini printer. - sharp pointer -
 
 assumption:was ist das?
 
-conclusion:ein divan ist eine sitzgelegenheit.
+conclusion:ein divan ist eine sitzgelegenheit. - bug -
 
 #### LEVEL DREI ERRINERUNGEN MUESSEN NICHT GELD SEIN
 
