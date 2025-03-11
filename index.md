@@ -2,6 +2,10 @@
 layout: default
 ---
 
+Hallo diese Seite ist dem Thema Binär gewidmet. Vor allem das sehr viele Programmiersprachen als unterschiedliche Deckel zu verstehen sind die trotzdem eine Binärdatei, einlesen können. Sprich Papier is geduldig, Schriftarten nicht immer.
+
+
+
 [seite : aremediadefinitions_GRAMMARLYHELPS](./aremediadefinitions_GRAMMARLYHELPS.md)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~
@@ -99,10 +103,13 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
      ### Here is an unordered list:
      
      - Item foo
+     
      - Item bar
+     
      - Test the application by typing **Bin\MSBuildSample** to run the executable.
        
        The **Hello, world!** message should be displayed.
+     
      - Now you can build the application by using the project file in which you used build properties to specify the output folder and application name.
 
 #### Geräte sollten noch einmal angemeldet werden. OEM.
@@ -123,6 +130,8 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
 ### And an ordered list:
 
 1. proof read
+   
+   ![](assets/images/Kapitel.png)
 2. Ireverse checkup
 3. Item three
 4. language changes stay past changed link
@@ -135,7 +144,7 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
 <dt>Birthplace</dt>
 <dd>Europe</dd>
 <dt>Color</dt>
-<dd>alonehwo</dd>
+<dd></dd>
 </dl>
 
 ```
