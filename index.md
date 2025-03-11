@@ -98,41 +98,36 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
 
 - level 1 item
   
-  - [Add build targets](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#add-build-targets)
+  - level 2 item
   - [Example](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-open-and-append-to-a-log-file#example)
-    - [Test the build properties](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#test-the-build-properties)
+    - [Add build targets](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#add-build-targets)
     - level 3 item
 
-- level 1 item
+- A <mark>Clean target</mark> that deletes old files.
   
-  - level 2 item
-  - level 2 item
+  - garbage collector
+  - litter trash, <mark>garbage</mark>, Pastebin waste
+    - rubbish age shape graph
   - level 2 item
   - build properties - what kind of properties have i build
   - build properties - with or without naming conventions
 
-- level 1 item
+- A Rebuild target that uses the `DependsOnTargets` attribute <mark>to force</mark> the Clean task to run before the Build task.
   
-  - level 2 item
-  - level 2 item
-    - and an applictaion
-    - or a name
-    - fullstop.
-    - DOT
+  - I do not have to force. . .
+  - how. . .
+    - Now that you have multiple targets, you can set <mark>the Build target as the default target</mark>.
+      - intend level 3, what is executed?
 
-- 1. level 1 item
-     
-     ### Here is an unordered list:
-     
-     - Item foo
-     
-     - Item bar
-     
-     - Test the application by typing **Bin\MSBuildSample** to run the executable.
-       
-       The **Hello, world!** message should be displayed.
-     
-     - Now you can build the application by using the project file in which you used build properties to specify the output folder and application name.
+- level 1 item
+
+- it causes the Clean target to run before the Build target
+
+- add this `DefaultTargets` attribute to the opening `Project` element
+  
+  ### Here is an unordered list:
+  
+  - [To test the build targets](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#to-test-the-build-targets)
 
 #### Geräte sollten noch einmal angemeldet werden. OEM.
 
