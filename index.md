@@ -28,7 +28,7 @@ assumption:ich bin ok du bist ok, eigenschaften sind nicht eigenheiten.
 
 conclusion:einen dokumentierten paragraphen mit eigenen wörtern und wortkreationen zieren können, oder ein worddokument erstellen oder und. . .
 
-[seite : aremediadefinitions_GRAMMARLYHELPS](./aremediadefinitions_GRAMMARLYHELPS.md)
+[Internet Kommunikation ist Layout verschieben in ein Feld mit Tooltips](./aremediadefinitions_GRAMMARLYHELPS.md)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~
 
@@ -149,8 +149,11 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
 1. proof read
    
    ![](assets/images/Kapitel.png)
+
 2. Ireverse checkup
+
 3. Item three
+
 4. language changes stay past changed link
 
 <dl>
