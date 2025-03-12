@@ -98,7 +98,14 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
 
 - level 1 item
   
-  - level 2 item
+  - [Create an MSBuild project file from scratch - MSBuild | Microsoft Learn B## uild incrementally](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#build-incrementally)
+    
+    ### Here is an unordered list:
+    
+    the unordered list has to be copied in the nested list if in use
+    
+    it is not expandable with more entry options
+    - <mark>You can tell</mark> MSBuild to build a target only if the source files or target files that the target depends on <mark>have changed</mark>.
   - [Example](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-open-and-append-to-a-log-file#example)
     - [Add build targets](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#add-build-targets)
     - level 3 item
@@ -109,7 +116,7 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
   - litter trash, <mark>garbage</mark>, Pastebin waste
     - rubbish age shape graph
   - level 2 item
-  - build properties - what kind of properties have i build
+  - build properties - what kind of properties have I build
   - build properties - with or without naming conventions
 
 - A Rebuild target that uses the `DependsOnTargets` attribute <mark>to force</mark> the Clean task to run before the Build task.
@@ -124,10 +131,6 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
 - it causes the Clean target to run before the Build target
 
 - add this `DefaultTargets` attribute to the opening `Project` element
-  
-  ### Here is an unordered list:
-  
-  - [To test the build targets](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#to-test-the-build-targets)
 
 #### Geräte sollten noch einmal angemeldet werden. OEM.
 
