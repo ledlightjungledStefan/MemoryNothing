@@ -105,8 +105,11 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
     the unordered list has to be copied in the nested list if in use
     
     it is not expandable with more entry options
+    
     - <mark>You can tell</mark> MSBuild to build a target only if the source files or target files that the target depends on <mark>have changed</mark>.
+  
   - [Example](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-open-and-append-to-a-log-file#example)
+    
     - level 3 item
 
 - XAML ist in Verwendung für grafische Oberflächen
@@ -131,11 +134,17 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
 
 - alsbald eine Datei, was. . .
 
-#### Geräte sollten noch einmal angemeldet werden. OEM.
+# Wenn ein Header ein link gewesen währe
 
-* \< hauptschluessel wert="deinHauptschluessel" \>
-* \< passwort wert="deinPasswort" \>
-* \< credentials wuzup \>
+* ,
+* sind Listeneinträge auf Servern
+* ohne Wissen wahrscheinlich.
+
+## Wenn ein Header ein link gewesen währe
+
+- ,
+- ist offline eine Bedienungsanleitung keine Installation
+- Makros, Markdowns und Binärs nicht in Kaltkabeln S+++ gespeichert.
 
 **Header 6**
 
