@@ -107,30 +107,29 @@ Einen Bereich zu verlassen deute ich nicht mit Wasser oder Luft sondern mit Wass
     it is not expandable with more entry options
     - <mark>You can tell</mark> MSBuild to build a target only if the source files or target files that the target depends on <mark>have changed</mark>.
   - [Example](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-open-and-append-to-a-log-file#example)
-    - [Add build targets](https://learn.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-msbuild-project-file-from-scratch?view=vs-2022#add-build-targets)
     - level 3 item
 
-- A <mark>Clean target</mark> that deletes old files.
+- XAML ist in Verwendung für grafische Oberflächen
   
-  - garbage collector
-  - litter trash, <mark>garbage</mark>, Pastebin waste
-    - rubbish age shape graph
+  - the say so - in use graphic surfaces -
+  - assuming it is true
+    - does it help to ease the pain - what (kind) of language is. . .
   - level 2 item
-  - build properties - what kind of properties have I build
-  - build properties - with or without naming conventions
+  - ist eine Brettljausen zu Ostern ein Schloss ohne Brett?
+  - Nach dem halten einer elektrischen Lok bei einem Prozess oder Speicher. . .
 
-- A Rebuild target that uses the `DependsOnTargets` attribute <mark>to force</mark> the Clean task to run before the Build task.
+- Zwei typografische Zeichen sind nicht 1 - eins und 0 - null
   
   - I do not have to force. . .
-  - how. . .
-    - Now that you have multiple targets, you can set <mark>the Build target as the default target</mark>.
-      - intend level 3, what is executed?
+  - ASCII Zeichen sind binär 1 - eins 0 - Null
+    - Ein Kontext ist eine Anmerkung mit Eigenschaft
+      - Ein übergeordneter Windows Ordner listed rechter Hand Attributwerte
 
 - level 1 item
 
-- it causes the Clean target to run before the Build target
+- Soll ich dir einen neuen Anlegen
 
-- add this `DefaultTargets` attribute to the opening `Project` element
+- alsbald eine Datei, was. . .
 
 #### Geräte sollten noch einmal angemeldet werden. OEM.
 
