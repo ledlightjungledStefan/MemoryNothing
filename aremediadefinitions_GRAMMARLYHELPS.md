@@ -1,30 +1,37 @@
 ---
 layout: default
 title: Additional Page with SVG
+css:
+  - assets/css/main.css
 ---
 
-TOOLTIPPING sollte ein Spiel auf MSStor sein. Bingo ist eines. Da ich Geld brauche muss ich die Firma Schildkröt fragen ob ich für ein youtube Video und meine Seite als Werbeträger eines bekommen würde zu folgenden Konditionen.
-Jedes wohl platzierte Tooltip ohne Layout auf einer Seite, fehler. Jedes Tooltip auf einer Seite zu dem das Layoutgrid auch im css Mediabereich einer zweiten Seite verschoben werden konnte, . .
+| More detailed description of the indentation processor |                                                                                                                               | The indentation processor features two key public methods: 'Indent' and 'UnIndent'.                                    |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `key:<br/>  value`                                    | Calling the first method implies that we are going into a child node, probably more indented,                                 |                                                                                                                        |
+| `key: value`                                           | But possibly the child is positioned directly after the parent node, like in:                                                 |                                                                                                                        |
+|                                                        | When we continue moving through the stream and meet a new line, the indentation processor checks how much the indentation is. | <mark>If the indentation exceeds that of the previous line, then this line certainly belongs to the child node.</mark> |
 
-währe ein Trefferfeld für einen Balltouchdown.
-Jeder Mensch kann nur einen Achter haben und de Aggregatszustände des Wetters mitmachen.
+id content Laws & Causes vsauce
 
-Gut für Menschen die sich dem Wetter nicht mehr anpassen müssen wenn möglich nicht. Oder Orks, zum Beispiel der Typ der Pferde vor dem Schlachten schüutzte ect
-.
+Otherwise, this layer pretends that this is the end of the stream and sets the EOF.
+
+When the indentation is more, we save the current level to be restored later.
+
+[Yaml .NET Parser - Documentation](https://yaml-net-parser.sourceforge.net/)
+
+<div>
+    <button>Click Me</button>
+  </div>
 
 [back](./)
 
-# 1 1 1, Seite 1, Layouttooltip, ´VisibleChanged` VB.Net
-
 [Create a Windows Forms application from the command line | Microsoft Learn Example](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/how-to-create-a-windows-forms-application-from-the-command-line?view=netframeworkdesktop-4.8#example)
 
-Meanwhile, in another part of the galaxy, if some forces use clutches to regenerate, I use my Softball, and the smashes of the universal stars are not visible,  the water in the air is dry and humid.
+### Learn, offline
 
-##### Learn, offline
+A process is to compare or strikethrough. . .
 
-a proces is to compare or striked through. . .
-
-offset is not with aprinter.
+The offset is not with a printer.
 
 #### By luck also; otherwise, a live account is not advised.
 
