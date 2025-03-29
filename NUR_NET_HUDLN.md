@@ -50,6 +50,12 @@ End Module
 
 "Meine Meinung mit meinen Erfahrungen bezüglich .NET und visual basic ist, dass die Sicherheitsstufen für visual basic public, private, shared und so weiter in Dateien der Dateierweiterung *.vb gefasst in Module End Module anders eingegeben werden sollen weil meiner Sicht folgend die allgemein nicht offiziel dargestellte Variante in Registrierdateien für Kontextmenüs der Elektrizität um Strom verstehen und erklären zu können im Datenschutz anders gewertet werden soll (meine von mir nicht betstätigte Variante einer Meldung). Siehe:Straßenbahn, den die Oberleitungen neben der physikalischen Spannung die elektrische Spannung im Bereich Steigleitung meiner Sicht folgend nachsich ziehen würde das die Stromnehmer der Straßenbahn bei idealen Anwendungen nicht mit Kontakt mit der Oberleitung sein müssten. Dem zufolge könnten die sozusagen Module bei passenden Bedingungen entkoppelt werden. Das könnte auch bequem studiert werden, schätz ich, da die Fachlehre der Hotelketten Module genannt wurden. Nach erfolgtem anwenden währe mein Namensvorschlag statt ULF S C H W U N G B A H N."
 
-![](assets/images/Unbenannt.png)
+[Elektrosensibilität | Elektrosensibilität](https://www.elektrosensibel-ehs.de/elektrosensibilitat/)
 
-Hm?
+[Wohnraum/ Weiße Zonen | Elektrosensibilität](https://www.elektrosensibel-ehs.de/weisse-zonen/)
+
+[Strahlungsarme Gebiete - Wohnraum für Elektrosensible - wifi-refuge.org](https://wifi-refuge.org/de/white-zones/)
+
+[Elektromagnetische Verträglichkeit und Überspannungsschutz | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-658-14189-9_6)
+
+[Lebens-Oasen | Weisse Zonen](https://www.weissezonen.de/lebens-oase/)
