@@ -4,7 +4,7 @@ css:
 - assets/css/main.css
 bugcss: <link rel="stylesheet" href="{{ css }}">
 ---
-
+[NUR NET HUDLN:WEIL. . . -klein Adlerauge-](./NUR_NET_HUDLN.html)
 ###### Tooltips. Diese Seite wird getippt mit MarkText, einem file:markdown Editor.
 
 Ein typischer YAML Eintrag währe key: value
