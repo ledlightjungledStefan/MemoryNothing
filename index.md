@@ -34,7 +34,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~
 
 [return_JavaScript_MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
 
-![](assets/images/At_gamejolt.png)
+![](assets/images/AmIABLE.png)
 
 [Link to another page to start TOOL TIPING. -klein Adlerauge-](./another-page.html)
 
