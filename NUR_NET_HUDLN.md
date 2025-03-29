@@ -25,9 +25,27 @@ VISIBLE CHANGED
 nun mit der deutsch synchronizierten Sprachart monthy pythons das Ende dieser Seite begünstigt das Wort white space ist aber sehr viel Arbeit.
 Ich werde diesbezüglich das Wort nach dem link "back" nicht vor den link schon setzen.
 
+Die meisten haben keine Lizensen, aber . . . es ist nicht . . . aller Tage Abend.
+Ich arbeite an einer Vereinfachung im Rahmen von plarium development und ich habe nicht schon begonen. . .
+
 [back](./)
 
 VISIBLECHANGED
+
+#### Counter Notice
+
+If you believe your removed content does not **<mark>?</mark>** infringe, or if you have authorization from the copyright holder, the holder’s agent, or pursuant to law, you may send a counter-notice containing the following information:
+
+- Your physical or electronic signature;
+- Identification of the Content that has been removed or to which access has been disabled and the location at which the Content appeared before it was removed or disabled;
+- A statement that you have a good faith belief that the Content was removed or disabled as a result of mistake or a misidentification of the Content; and
+- Your name, address, telephone number, and e-mail address, a statement that you consent to the jurisdiction of the federal court in San Francisco, California, and a statement that you will accept service of process from the person who provided notification of the alleged infringement.
+
+If a counter-notice is received, Company may send a copy to the original complaining party informing them the content may be replaced or removed in 10 business days. Unless the copyright holder files an action seeking a court order against the Publisher or User, the removed content may be replaced in 10 to 14 business days or after receipt of the counter-notice, at Company’s sole discretion.
+
+
+[Out of Ctrl by Miknugget](https://miknugget.itch.io/out-of-ctrl)
+_~~skip?~~_
 
 [Modul: Höhere Lehranstalt für Tourismus](https://modul.at/ausbildungsprogramme/hoehere-lehranstalt-fuer-tourismus)
 
