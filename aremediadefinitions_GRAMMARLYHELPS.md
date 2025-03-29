@@ -5,6 +5,21 @@ css:
   - assets/css/main.css
 ---
 
+# Tolltips müssen nicht sichtbar sein.
+
+Wenn ich die Layouts einfach ein und ausschalten könnte.
+Eigentlich ist für alle Medienbereiche CSS Media @Media schon bereit.
+Es gibt für jedes offiziel angemeldete Gerät ein Bildschirmformat wenn eine Webseite,
+schon so geschrieben (scanner) getippt wurde. Ich mach das gerne für euch für eine Kiste Stiegel Bier.
+
+
+## Eine Tabelle mit Tooltips -not shuffled-, ist VisibleChanged?
+
+Nopfi topfi blipblap, ich bin eindeutig soeben durchgeknallt gewesen.
+Ich kann keine Menge Geld annehmen, WENN ICH DAS PROJEKT "he wer hat auf meinem Bildschirm einen tooltip hinterlassen wie meine Diagonale ist" billig umsetzen kann, oder nicht. . . (bayverse frenzy moment in a glass chamber 22do you have a toothpick. . .auci)
+
+### 
+
 | More detailed description of the indentation processor |                                                                                                                               | The indentation processor features two key public methods: 'Indent' and 'UnIndent'.                                    |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | `key:<br/>                                             |                                                                                                                               |                                                                                                                        |
