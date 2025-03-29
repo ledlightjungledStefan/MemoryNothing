@@ -22,6 +22,9 @@ End Sub
 
 VISIBLE CHANGED
 
+nun mit der deutsch synchronizierten Sprachart monthy pythons das Ende dieser Seite begünstigt das Wort white space ist aber sehr viel Arbeit.
+Ich werde diesbezüglich das Wort nach dem link "back" nicht vor den link schon setzen.
+
 [back](./)
 
 VISIBLECHANGED
