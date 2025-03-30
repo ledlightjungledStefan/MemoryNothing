@@ -13,6 +13,8 @@ If you can forget, you can cut the rope.
 
 Hallo diese Seite ist dem Thema Binär gewidmet. Vor allem das sehr viele Programmiersprachen als unterschiedliche Deckel zu verstehen sind die trotzdem eine Binärdatei, einlesen können. Sprich Papier is geduldig, Schriftarten nicht immer.
 
+![](assets/images/googleGO!.png)
+
 ###### LEVEL EINS BASEMENT
 
 Ein Schildkrötgymnastikball.
