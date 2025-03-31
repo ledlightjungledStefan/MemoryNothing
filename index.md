@@ -33,6 +33,8 @@ sirs madams due to respect works i get used to msbuild you can succed with other
 Patterns are checked sequentially.
 A pattern that negates a previous pattern will re-include file paths.
 
+![](C:\Users\plane\OneDrive\Dokumente\_DiePhysik-der-Wahrnehmung\MemoryNothing\assets\images\AmIABLE.png)
+
 -klein Adlerauge klappert Punkte-
 
 **Front Matter Defaults**
