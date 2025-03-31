@@ -2,54 +2,33 @@
 layout: default
 ---
 
-# HELP,abandonia
-
-![](assets/images/Kapitel.png)
-
-<mark>note</mark>HELPnotfor
-If you can forget, you can cut the rope.
-
-![](assets/images/yelpit.png)
-
-Hallo diese Seite ist dem Thema Binär gewidmet. Vor allem das sehr viele Programmiersprachen als unterschiedliche Deckel zu verstehen sind die trotzdem eine Binärdatei, einlesen können. Sprich Papier is geduldig, Schriftarten nicht immer.
+# Edge oder Edge mit IE Registerkarte. Firefox.
 
 ![](assets/images/googleGO!.png)
 
+![](assets/images/Kapitel.png)
+
 ###### LEVEL EINS BASEMENT
 
-Ein Schildkrötgymnastikball.
+<mark>note</mark>-merke (isbn offiziel ggkey jehachdem)
+ggkey ist eine vergabe eines persönlichen schlüssels statt der isbn
+![](C:\Users\plane\AppData\Roaming\marktext\images\2025-03-31-11-59-31-image.png)
 
-assumption : ist eine fläche auf einer wand mit dem elbogen, der schulter, und der hand erreichbar?
+##### Ein einzelnes AUCH GANZ UND GAR persönliches
 
-conclusion : mit oder ohne ball, mit oder ohne ball touchdown
+Button    Button
+Visible    False
+False       Visible
+![](C:\Users\plane\OneDrive\Dokumente\_DiePhysik-der-Wahrnehmung\MemoryNothing\assets\images\joltvent.png)
 
-##### LEVEL ZWEI MARKIERUNG
-
-Ein portable mini printer. - sharp pointer -
-
-assumption:was ist das?
-
-conclusion:ein divan ist eine sitzgelegenheit. - bug -
-
-#### LEVEL DREI ERRINERUNGEN MUESSEN NICHT GELD SEIN
-
-Definierte Listen. Oder auch nicht.
-
-assumption:ich bin ok du bist ok, eigenschaften sind nicht eigenheiten.
-
-conclusion:einen dokumentierten paragraphen mit eigenen wörtern und wortkreationen zieren können, oder ein worddokument erstellen oder und. . .
+![](C:\Users\plane\OneDrive\Dokumente\_DiePhysik-der-Wahrnehmung\MemoryNothing\assets\images\second_image.png)
+sirs madams due to respect works i get used to msbuild you can succed with other languages
 
 [Internet Kommunikation ist Layout verschieben in ein Feld mit Tooltips](./aremediadefinitions_GRAMMARLYHELPS.md)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~
-
 [return_JavaScript_MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
 
-![](assets/images/AmIABLE.png)
-
 [Link to another page to start TOOL TIPING. -klein Adlerauge-](./another-page.html)
-
-There should be whitespace between paragraphs. -by orderedlist-
 
 Patterns are checked sequentially.
 A pattern that negates a previous pattern will re-include file paths.
@@ -71,6 +50,8 @@ defaults:
 HOLD RELEASE: I am all files, all files about my body
 
 [White Space]([Lexical Format &#8212; WebAssembly 2.0 (Draft 2025-01-28)](https://webassembly.github.io/spec/core/text/lexical.html#white-space))
+
+There should be whitespace between paragraphs. -by orderedlist-
 
 The only relevance of white space is to separate [tokens](https://webassembly.github.io/spec/core/text/lexical.html#text-token). <mark>It is otherwise ignored</mark>.
 
