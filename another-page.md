@@ -11,10 +11,10 @@ css:
 [NUR NET HUDLN:WEIL. . . -klein Adlerauge-](./NUR_NET_HUDLN.html)
 
 hm next step. . . to be continued. . .
+![](C:\Users\plane\OneDrive\Dokumente\_DiePhysik-der-Wahrnehmung\MemoryNothing\assets\images\Flme.png)
 
 [back](./)
 
-![](C:\Users\plane\OneDrive\Dokumente\_DiePhysik-der-Wahrnehmung\MemoryNothing\assets\images\Flme.png)
 the timestamp from when the item was created
 20 43
 . . .which item?
