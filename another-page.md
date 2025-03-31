@@ -25,4 +25,6 @@ Mold
 der hue wert muss nicht schwarz sein oder nur einaml nicht schwarz mal zwei
 wie breit soll den die ecke sein?
 
-Nun einen khm Kreis?
+Nun einen khm Kreis? Und zwei
+windschiefe oder parallele ID E NT
+ok, und als was?
