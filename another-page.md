@@ -11,8 +11,9 @@ css:
 
 ![](assets/images/Flme.png)
 
-Einfach so. Syndicat is not my favorit game. Auch in diesem gefächt bin ich alleine. 13 23 schnitt ich noch nicht. Ungefähr in diesem Zeitalter musste LeChuck gefunden worden. 33 und so weiter.
-Nach dem schneiden ist links unten in visual studio 2022 nach dem erstellen eines Projektes weil die Projektgelder noch nicht zu Ende gewesen sind Label1 Eigenschaft. Also die nächsten Pausen sind einzuteilen mit wechsel zu visual studio 2022
-dem Wählen des Textes im Eigenschaftenfenster mit dem klicken der nach oben weisenden Eckenpfeilspitze ohne Pfeilschaft bis der Text "Label1" wählbar währe. Mit Strg steuerung plus der Taste A. Danach sollte es möglich sein die Schriftart und die Zeichengröße als EINEN TEILBEREICH der Barrierefreiheit verstehen elrenen zu können. 
+Also mit meinem Verständnis des Windows Datenschutzes kann das erste Ziel nach dem Hochfahren nur das Notepad sein. Die Markeirfarbe kann in MSPaint nicht mit graphischen Darstellungen ohne weiteres verwendet werden. Um das erreichen zu können müssten visual basic scripten verwendet werden können um in meinem Fall erst eine Zeile mit Text im Notepad markieren zu können. Ich habe dieses literarische Ziel in MSPaint graphische Darstellungen markieren zu können noch immer nicht erreicht.
+In einem meiner youtube Beiträge erwähnte ich es soll sein das nach dem öffnen des Notepads zuerst die Enter und danach die Tabulator Taste gedrückt werden sollen um weiter bearbeiten zu können weil der Datenschutz nicht berücksichtigt werden kann. Und man könnte versuchen auf den Autostart Ordner zu reduzieren nur wenn das nicht möglich ist setzt man die Arbeit fort.
+Ausschneiden deute ich als Passwortangabe. Warum kann kein "Label1" durch ein Rollstuhlfahrerpictogramm ersetzt werden?
+Passwörter sind auch geeignet sich die typographischen Dokumentationen durchzulesen. Es ist keine Bedingung diese durchlesen zu können.
 
 [back](./)
