@@ -9,17 +9,10 @@ css:
 
 [NUR NET HUDLN:WEIL. . . -klein Adlerauge-](./NUR_NET_HUDLN.html)
 
-hm next step. . . to be continued. . .
-
 ![](assets/images/Flme.png)
 
-Es ist mit Windows möglich mit Word und VBA sowie Makros aktiv am Datenschutz mitzuwirken. Die Frage ist wie?
-
-Nunja ein refresh button mit der log entry möglichkeiten und du sollst eine angabe nicht drücken und die frage des verifizierens bleibt offen. Acho ein word dokument VBA commandbutton.
+Einfach so. Syndicat is not my favorit game. Auch in diesem gefächt bin ich alleine. 13 23 schnitt ich noch nicht. Ungefähr in diesem Zeitalter musste LeChuck gefunden worden. 33 und so weiter.
+Nach dem schneiden ist links unten in visual studio 2022 nach dem erstellen eines Projektes weil die Projektgelder noch nicht zu Ende gewesen sind Label1 Eigenschaft. Also die nächsten Pausen sind einzuteilen mit wechsel zu visual studio 2022
+dem Wählen des Textes im Eigenschaftenfenster mit dem klicken der nach oben weisenden Eckenpfeilspitze ohne Pfeilschaft bis der Text "Label1" wählbar währe. Mit Strg steuerung plus der Taste A. Danach sollte es möglich sein die Schriftart und die Zeichengröße als EINEN TEILBEREICH der Barrierefreiheit verstehen elrenen zu können. 
 
 [back](./)
-
-
-
-
-____
