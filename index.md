@@ -14,28 +14,11 @@ layout: default
 ggkey ist eine vergabe eines persönlichen schlüssels statt der isbn
 ![](C:\Users\plane\AppData\Roaming\marktext\images\2025-03-31-11-59-31-image.png)
 
-##### Ein einzelnes AUCH GANZ UND GAR persönliches
-
-Button    Button
-Visible    False
-False       Visible
-![](C:\Users\plane\OneDrive\Dokumente\_DiePhysik-der-Wahrnehmung\MemoryNothing\assets\images\joltvent.png)
-
-![](C:\Users\plane\OneDrive\Dokumente\_DiePhysik-der-Wahrnehmung\MemoryNothing\assets\images\second_image.png)
-sirs madams due to respect works i get used to msbuild you can succed with other languages
-
 [Internet Kommunikation ist Layout verschieben in ein Feld mit Tooltips](./aremediadefinitions_GRAMMARLYHELPS.md)
 
 [return_JavaScript_MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
 
 [Link to another page to start TOOL TIPING. -klein Adlerauge-](./another-page.html)
-
-Patterns are checked sequentially.
-A pattern that negates a previous pattern will re-include file paths.
-
-![](C:\Users\plane\OneDrive\Dokumente\_DiePhysik-der-Wahrnehmung\MemoryNothing\assets\images\AmIABLE.png)
-
--klein Adlerauge klappert Punkte-
 
 **Front Matter Defaults**
 
