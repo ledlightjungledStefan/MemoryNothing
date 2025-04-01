@@ -11,11 +11,16 @@ css:
 
 ![](assets/images/Flme.png)
 
-- HelpRequested:es wurde keine Hilfe bei mir empfangen.
-  Dies ist ein Ausschnitt der Events/Ereignise die mit einer Control/Kontrolle auf einer Form gespeichert gewählt werden können. Ich wählte einen Button und fand kein HideLabel Event/Ereignis.
-
-- ImeModeChanged ist der schwierige Beweisbereich. Ich habe ein Schloss. Das kann eine TextBox sein oder und soweiter. Es ist mir nicht möglich .NET Kontrollen zu verschleiern.
-
-- GetFocus ich empfehle mir eine Schieberegler der nur mit dem letzten Ereignis Focus hat. Der Schieberegler soll sowohl select als auch focus zu nutze haben.
+Ein Ereignis ist eine Meldung, die von einem Objekt gesendet wird, um das Auftreten einer Aktion zu signalisieren. Die Aktion kann durch Benutzerinteraktionen wie das Klicken auf eine Schaltfläche verursacht werden, oder sie kann durch eine andere Programmlogik, z. B. das Ändern eines Eigenschaftswerts, ausgelöst werden.
 
 [back](./)
+
+In einem Sonnensystem ist ein blauer Planet. Auf dem Planeten fließt ein Fluss richtung Meer. Auf dem Fluss fährt ein Boot entgegen der Flussrichtung mit Aussenbordmotor.
+
+- ein aussenbordmotor kann einen propeller antreiben:Meldung
+
+- das signal einer Taste muss entprellt werden sonst kann die sendung nicht verstanden werden:Objekt
+
+- das Boot ist schneller oder langsamer als der Fluss:Aktion
+
+- die Luftfeuchtigkeit könnte ein Eigenschaftswert der Wassertiefe sein.
