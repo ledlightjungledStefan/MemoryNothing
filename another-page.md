@@ -13,20 +13,24 @@ css:
 
 In einer Klasse sitzen ein Seepferdchen, ein Piranha und ein Yeti.
 
-Im folgenden Beispiel wird die Ereignishandlermethode `c_ThresholdReached` dargestellt~~, die der Signatur für den [EventHandler](https://learn.microsoft.com/de-de/dotnet/api/system.eventhandler)-Delegaten entspricht.~~ Die Methode abonniert das `ThresholdReached`-Ereignis.
+Das Thema sind Methoden und Methodennamen die entweder für die Ausgabe am Bildschirm getippt wurden, oder auf einem Blatt Papier gezeichnet.
+Der Methodenname ist eine Adresse
+die Adresse von dem Methodennamen kann verwendet werden mit
+einem Klasseninhalt.
 
-Die Methode c_ThresholdReached abonniert das ThresholdReached-Ereignis.
-c_ThresholdReached ist ein variabler Name. Das Seepferdchen ist ein Seepferdchen wenn zwei Piranhas die Scheren sind und Saltberg versucht zu töten. Wen? Das Yeti.
+Das Seepferdechen verhört den Yeti:
+"WO IST THRESHOLDREACHED"?
 
-Die Methode als_YetieineAmazonaskrankheit abbonniert das Yetieine Amazonaskrankheit-Ereignis.
+"ICH WEIß ES NICHT ICH WEIß ES NICHT",
+antwortet das Yeti.
 
+"IM ADDRESSNAMEN"?
 
+"NEEEEEEEEEEEEEEEEIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINNNNNNNNNNNNNNNNNN"
+zirbelte das Seepferdchen in der Luftfeichtigkeit.
 
-Was ist nicht DER sondern EIN Fehler. AddressOf kannirgendeinnamesein
-
-Sub irgendeinnamesein
-MsgBox("ist ein Fehler, WENN. . . ")
-End Sub
+"IN DER KLASSE IN DER KLASSE",
+bebte das Yeti wohlwollend um dem irsinn der Wechselwirkung in Klassen mit Binärdateien und Schaltkreisen ein Ende zu setzen. Es gibt auch WechselwirkungEN.
 
 [back](./)
 
