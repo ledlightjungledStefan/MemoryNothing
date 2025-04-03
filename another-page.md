@@ -17,11 +17,23 @@ Private Sub Button_HideLabel(ByVal sender As Object, ByVal e As EventArgs)
 End Sub
 ```
 
-Saltberg versucht während seinem Mordversuch an Professor Optivuci, in einem Anfall an Erinnerung schaltet sich sein Licht ein. Er beachtet nicht weiter ein Teil der Seepferdchen zu sein die nicht mit Piranhas fusionierten.
-Er konnte ihm helfen weil die Auserirdischen nichts dazu beitragen mussten, "die haben gesagt nach dem Flug in der Kaffemaschine sie übernehmen das Parklpatzbild in eigene Hände. Muss wohl am Zoll liegen. Douane."
-Seine Wunde an der linken Halshälfte war ja nicht Malaraia, amazonisches Malaria sonder Yetipirahna.
-"ABER ICH HAB DAS DOCH EINDEUTIG GESEHEN IM BILDSCHIRM, bleach".
-Sind Sie zufrieden ohne AddHandler Button.HideLabel. Ok.
+#### Ereignishandler
+
+Ein **Ereignishandler** ist die Methode oder Prozedur, die definiert, wie auf ein Ereignis reagiert wird. Wenn ein Ereignis ausgelöst wird, übernimmt der Handler die Aufgabe, die entsprechende Logik auszuführen. Man könnte ihn als die "Antwort" auf das Ereignis verstehen. Beispiel:
+
+`Private Sub HandleButtonClick()
+    MsgBox("Button wurde geklickt!")
+End Sub`
+
+Hier ist `HandleButtonClick` der Ereignishandler(warum nicht Name?).
+
+##### Ereignis
+
+Ein **Ereignis** ist eine Benachrichtigung, die signalisiert, dass etwas passiert ist. Es ist wie ein "Ruf", der angibt, dass eine bestimmte Aktion oder ein Zustand eingetreten ist. Ereignisse werden häufig von Objekten ausgelöst, z. B. ein Button-Klick, ein Timer-Ablauf oder eine Änderung des Werts einer Variable. Sie sind im Grunde "Auslöser", die darauf warten, dass sie verarbeitet werden. Beispiel:
+
+`Public Event ButtonClicked()`
+
+Hier wird ein Ereignis namens `ButtonClicked` definiert.
 
 ```vbnet
 Private Sub AddVisibleChangedEventHandler()
