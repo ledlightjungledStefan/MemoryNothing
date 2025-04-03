@@ -11,26 +11,23 @@ css:
 
 ![](assets/images/Flme.png)
 
-In einer Klasse sitzen ein Seepferdchen, ein Piranha und ein Yeti.
+```vbnet
+Private Sub Button_HideLabel(ByVal sender As Object, ByVal e As EventArgs)
+   myLabel.Visible = False
+End Sub
+```
 
-Das Thema sind Methoden und Methodennamen die entweder für die Ausgabe am Bildschirm getippt wurden, oder auf einem Blatt Papier gezeichnet.
-Der Methodenname ist eine Adresse
-die Adresse von dem Methodennamen kann verwendet werden mit
-einem Klasseninhalt.
+Saltberg versucht während seinem Mordversuch an Professor Optivuci, in einem Anfall an Erinnerung schaltet sich sein Licht ein. Er beachtet nicht weiter ein Teil der Seepferdchen zu sein die nicht mit Piranhas fusionierten.
+Er konnte ihm helfen weil die Auserirdischen nichts dazu beitragen mussten, "die haben gesagt nach dem Flug in der Kaffemaschine sie übernehmen das Parklpatzbild in eigene Hände. Muss wohl am Zoll liegen. Douane."
+Seine Wunde an der linken Halshälfte war ja nicht Malaraia, amazonisches Malaria sonder Yetipirahna.
+"ABER ICH HAB DAS DOCH EINDEUTIG GESEHEN IM BILDSCHIRM, bleach".
+Sind Sie zufrieden ohne AddHandler Button.HideLabel. Ok.
 
-Das Seepferdechen verhört den Yeti:
-"WO IST THRESHOLDREACHED"?
-
-"ICH WEIß ES NICHT ICH WEIß ES NICHT",
-antwortet das Yeti.
-
-"IM ADDRESSNAMEN"?
-
-"NEEEEEEEEEEEEEEEEIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINNNNNNNNNNNNNNNNNN"
-zirbelte das Seepferdchen in der Luftfeichtigkeit.
-
-"IN DER KLASSE IN DER KLASSE",
-bebte das Yeti wohlwollend um dem irsinn der Wechselwirkung in Klassen mit Binärdateien und Schaltkreisen ein Ende zu setzen. Es gibt auch WechselwirkungEN.
+```vbnet
+Private Sub AddVisibleChangedEventHandler()
+   AddHandler myLabel.VisibleChanged, AddressOf Label_VisibleChanged
+End Sub
+```
 
 [back](./)
 
