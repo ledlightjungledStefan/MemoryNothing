@@ -11,6 +11,8 @@ css:
 
 # IHR HABT VERGESSEN DAS PAPIER BASENUMMERN SEIN KÖNNEN
 
+Mit diesem Paragraphen kann kein Gesetz angewendet werden. Die PVA kann nicht einfach nur ein Kontingent haben, weil es das Wort Einzahlen gibt. Und Schlampat auch. Verstehen Sie? Button_HideLabel ist ungleich Labelname_Visibelchanged. Das ist keine lustige Automatikbezeichnung wo da zum Spaß alle gegen jeden sind.
+
 Ja zu viel Sicherheit ist zu viel, nur wir in Slowenien haben auf der Autobahn Hinweisschilder über der Autobahn mit so Sätzen wie "attention slippery road ahead", und das eher weil nicht nur in österreich das arbeitsmarkt service für einen urlaub die mittel streicht und die idee nur heimische produkte in den urlaub mitzunehmen dem jeweiligen finanzamt nicht schaden kann.
 
 Nun nachdem ich das Notstandshilfenkontingent wieder für ein Angebot der Hiobsbörsen anwende ist es nicht viel anders als bei anderen. Passend soll es sein. Ein zwei Österreicher:inen habe ich auch kennen gelernt die Querulanten sind. Aber die querullieren nicht die sind Querulant eingestuft.
