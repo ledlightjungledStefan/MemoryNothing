@@ -11,15 +11,7 @@ css:
 
 # IHR HABT VERGESSEN DAS PAPIER BASENUMMERN SEIN KÖNNEN
 
-Ich schätze die meisten Fahrzeuge die am Westbahnhof vorbeidonnern können nicht einmal alleine Milch kaufen. Falls Sie wenn anstellen erhalten Sie möglicherweise noch das passende Produkt. Wie ist das Verhältnis bei Informationen.
-Ihr hofft im berüchtigten Medienbereich auf die strichpunktstrich. Gestern im Foyer der ersten war wieder einer der einfach beim Überweisungsscheinautomate stand und hantierte UM WICHTIG AUSZUSEHEN. Wie arm muss man sein um Stummheit nicht mehr haben zu möchten.
-Nun falls es irgendeinnnnnnnnnnnnnnnnnnnnnnnnnnnnn Ablenkungsmanöver gewesen sein soll dann müssen die Informationen weniger Wert als der schlechte Atem Saurons.
-ES KANN SEIN DAS SICH MENSCHEN KAUFEN HABEN LASSEN DIE KEINE MILCH KAUFEN KÖNNEN UM FÜR SAURONS ATEM MILLONEN ZU ZAHLEN WEIL SIE ES NICHT BESSER WISSEN KÖNNEN, WIE IST IHRE MEINUNG ZU DEM THEMA?
-
-Ach ja im Header 1 steht ja ein anderes Thema ausgestellt. Wenn ich zehn euro nehme oder gebe habe ich oder hatte ich papier in der hand. Wenn ich einen bildschirm betrachte und die zahl 10 sehe muss das nicht die gleiche sein wie auf einem Papier.
-
-Wenn ich mein Gehirn vergesse ist es mir auch egal was ich sonst noch vergesse weil ich nicht multi tasking fähig sein kann. Also versgesse ich entweder das Papier oder den Bildschirm.
-Und den Rest sollen die gelben Engel die KFZ Stellen und überhaupt alle sein die mein Geld nehmen können um mich weiter zu verarschen. Habe ich es anders verdient. Ich kann es nicht wissen. - author auf der nudelsuppen dachergeschwommener Buchstaben und sternchensuppen artist ohne führerschein und fahrzeugzulassungschein ein selbsternannter Lösungs Lösungs hilf mir auf die Sprünge -
+Ich kann auch Werbung machen man verlagert Nudel in einer Suppe und die Nachbarn haben bitweiß pils. Könnte sein das Fahrzeughalter:inen des ADEACE und dergleichen Gehirne haben die gelogen haben, lieber ein Kissen beim Oktoberfest zu haben als Mitgrölen zu müssen den es ist schlecht betrunken zu fahren, aber man hat es nicht geschaft. Iznogud der Zeichentrickheld hat als Erklärung, moment mal, du sollst nicht von vergorenem trinken.
 
 ![](assets/images/Flme.png)
 
