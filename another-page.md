@@ -13,6 +13,9 @@ css:
 
 Ich kann auch Werbung machen man verlagert Nudel in einer Suppe und die Nachbarn haben bitweiß pils. Könnte sein das Fahrzeughalter:inen des ADEACE und dergleichen Gehirne haben die gelogen haben, lieber ein Kissen beim Oktoberfest zu haben als Mitgrölen zu müssen den es ist schlecht betrunken zu fahren, aber man hat es nicht geschaft. Iznogud der Zeichentrickheld hat als Erklärung, moment mal, du sollst nicht von vergorenem trinken.
 
+Also wenn beleidigt worden währe oder ich am Westbahnhof Heuwagen beleidigen würde dann währe das wie bei kung fu panda level null, weil das vorzusetzende feindbild ist die visage des iznogud. das ist möglicherweise sozialkritsch und könnte zu einer erinnerungslücke geführt werden den der ORF hat sicher noch eine Kopie des Produktes.
+Ich hatte leider keine Zeit meine OSB Sim zu bestellen. Also muss der ORF mit dem Monoploygeld alleine hantieren. Leider. Mache auch ich Werbung. Wegen dem Druck Preise erfüllen zu müssen nicht gegen Bezahlung. ETC.
+
 ![](assets/images/Flme.png)
 
 ```vbnet
