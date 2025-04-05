@@ -11,6 +11,8 @@ css:
 
 # IHR HABT VERGESSEN DAS PAPIER BASENUMMERN SEIN KÖNNEN
 
+Also Sie ruhen sich weiter aus auf dem Verschweigen der Möglichkeiten die ich biete und spielen weiter Glücksspiele wie viele Bögen wieter überspannt werden können. Das ist keine Sicherheit das ist Selbstsicherheit. Nur Sie werden den Preismarkt nicht kontrollieren können weil dann müssten Sie die Todesstrafe wieder in Österreich einführen. Weil auch wenn Sie mich beseitgen lassen werden Sie Todesstarfe anwenden.
+
 Ich arbeite für Sie und in Wiener Neustadt gibt es ein geräumtes A1 Gebäude. In Mödling ein geräumtes BMF Gebäude. Und je mehr sich die Wirtschaft in dubiose Internetstrukturen binden lassen muss um so eher werde ich zu geplantem und angemeldetem Hausbesetzer und Sie können mich nicht aufhalten weil ich keine "Bande " habe. Sie sind ja auch keine "Bande" gewesen?
 
 Das Finanzamt muss kein Kontingent haben und das AMS ein geschlossenes Kontingent. Eine Rechnung mit Gegenrechnungsvergleich.
