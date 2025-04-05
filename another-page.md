@@ -11,19 +11,17 @@ css:
 
 # IHR HABT VERGESSEN DAS PAPIER BASENUMMERN SEIN KÖNNEN
 
-Also Sie ruhen sich weiter aus auf dem Verschweigen der Möglichkeiten die ich biete und spielen weiter Glücksspiele wie viele Bögen wieter überspannt werden können. Das ist keine Sicherheit das ist Selbstsicherheit. Nur Sie werden den Preismarkt nicht kontrollieren können weil dann müssten Sie die Todesstrafe wieder in Österreich einführen. Weil auch wenn Sie mich beseitgen lassen werden Sie Todesstarfe anwenden.
+Alles in allem, ich und ein Michi in einem Mietfahrzeug auf einer deutschen Autobahnstrecke. Viele Kilometer nach Essen auch auf dem Rückweg nach Wien. Stau, haha lustig mal Radio einschalten. Stau lichtet sich. Nicht lustig. Highspeedunfall. Die Aufräumtruppen haben nach dem Dienstfahrzeug mit den Blinkschildern linker Hand alle irgendwie Besen um die Splitter von der Straße zu kehren. Mein Gefühl war wie auf einem Operatsionstisch wo man nicht von Glück sprechen kann das Schürfwunden keine bleiche Panik hervorrufen.
+Schwere Stimmung irgendwo zwischen Tod und lieber nicht sagen wie weh das tut. Das Fahrzeug schien die linke Leitplanke geschrammt zu haben und man hätte die Geschwindigkeit das Aufpralls messen können weil das Fahrzeug gut 100 bis 150 Meter auf der rechten Seite den dreispurigen Autobahn lag, gelegen ist. Das Fahrzeug wurde dann auf die linke Seite gebracht wo wir es sahen also nicht wir sahen es auf der rechten Seite. War das piätet oder praktisch?
+Da war mal irgendwo ein Motorblock. Dachte ich mir. Die Fahrerkabine ließ darauf schließen, und ich dachte noch mindestens 50 Kilometer darüber nach, das der Beifahrersitz eher ungeschütz war also die Rückbänke waren noch unter einem Dach. Das Autofrontdach eher dort wo der Motorblock gewesen ist.
+Wenn man von hoher Höhe was schweres fallen lässt würde sich ein kinetisch Beschleunigtes Fahrzeug dem Gewicht anpassen. Wie viel Druck kann ein Mensch zum Vergleich ausüben. Hm?
+Der Druck des ersten Einschlages des Fahrzeuges auf der linken Seite der Autobahn schien wohl zu zeigen wie schwer kinetisch beschleunigte Objekte wirklich sind. Kann sein das sich der Motorblock löste und a bisal Phsyik zeigte.
+Geschwindigkeiten der deutschen und tschechischen Autobahnen 300 bis 350 durchschnittlich.
+Also mein Arbeitskollege fuhr sachlich seine 200 Kilometer pro Stunde. Die Fahrzeuge die hin und wieder links an uns vorbeirauschten waren auch bei gerader Strecke nach 5 bis 10 Sekunden ausser Sichtweite. Kann übertrieben sein. Besser nicht Testen.
+Ein Schiffslenkrad ist sehr breit, ein Sportlenkrad sehr schmal. Ein Punkt auf der vorderen Oberseite eines Lenkrades hat bei geringer Geschwindigkeit weniger Wiederstand. Das die Reaktionszeit sich ablesen lassen könnte führt dazu sagen zu können wenn der sogenannte Spielraum des Punktes einige wenige Millimeter aufweisen sollte ist dei Geschwindigkeit proportional zum Gewicht des Fahrzeugs und der Motorleistung aufgrund der Beschleunigungsmöglichkeit eher so das mehr als 150 ist.
+Eine Nadel im Heuhaufen stell ich mir anders vor.
 
-Ich arbeite für Sie und in Wiener Neustadt gibt es ein geräumtes A1 Gebäude. In Mödling ein geräumtes BMF Gebäude. Und je mehr sich die Wirtschaft in dubiose Internetstrukturen binden lassen muss um so eher werde ich zu geplantem und angemeldetem Hausbesetzer und Sie können mich nicht aufhalten weil ich keine "Bande " habe. Sie sind ja auch keine "Bande" gewesen?
-
-Das Finanzamt muss kein Kontingent haben und das AMS ein geschlossenes Kontingent. Eine Rechnung mit Gegenrechnungsvergleich.
-
-Mit diesem Paragraphen kann kein Gesetz angewendet werden. Die PVA kann nicht einfach nur ein Kontingent haben, weil es das Wort Einzahlen gibt. Und Schlampat auch. Verstehen Sie? Button_HideLabel ist ungleich Labelname_Visibelchanged. Das ist keine lustige Automatikbezeichnung wo da zum Spaß alle gegen jeden sind.
-
-Ja zu viel Sicherheit ist zu viel, nur wir in Slowenien haben auf der Autobahn Hinweisschilder über der Autobahn mit so Sätzen wie "attention slippery road ahead", und das eher weil nicht nur in österreich das arbeitsmarkt service für einen urlaub die mittel streicht und die idee nur heimische produkte in den urlaub mitzunehmen dem jeweiligen finanzamt nicht schaden kann.
-
-Nun nachdem ich das Notstandshilfenkontingent wieder für ein Angebot der Hiobsbörsen anwende ist es nicht viel anders als bei anderen. Passend soll es sein. Ein zwei Österreicher:inen habe ich auch kennen gelernt die Querulanten sind. Aber die querullieren nicht die sind Querulant eingestuft.
-Wenn Sie einen Knopf drücken können Sie sich denken das sich ein Rahmen abschalten lässt und in einem zweiten von zwei im selben Moment ein Text stehen könnte?
-Wenn Aufwiegelung bedeutet Schmerz zu lindern, was ist dann?
+Apotheke, hm?
 
 ![](assets/images/Flme.png)
 
