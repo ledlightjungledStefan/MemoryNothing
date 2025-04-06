@@ -14,7 +14,7 @@ layout: default
 ggkey ist eine vergabe eines persönlichen schlüssels statt der isbn
 ![](C:\Users\plane\AppData\Roaming\marktext\images\2025-03-31-11-59-31-image.png)
 
-[Internet Kommunikation ist Layout verschieben in ein Feld mit Tooltips](./aremediadefinitions_GRAMMARLYHELPS.md)
+[PEPAPIG LUGNERCITY KINO ALERTBOX](./aremediadefinitions_GRAMMARLYHELPS.md)
 
 [return_JavaScript_MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
 

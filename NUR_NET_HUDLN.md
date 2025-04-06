@@ -43,15 +43,12 @@ If you believe your removed content does not **<mark>?</mark>** infringe, or if 
 
 If a counter-notice is received, Company may send a copy to the original complaining party informing them the content may be replaced or removed in 10 business days. Unless the copyright holder files an action seeking a court order against the Publisher or User, the removed content may be replaced in 10 to 14 business days or after receipt of the counter-notice, at Company’s sole discretion.
 
-
 [Out of Ctrl by Miknugget](https://miknugget.itch.io/out-of-ctrl)
 _~~skip?~~_
 
 [Modul: Höhere Lehranstalt für Tourismus](https://modul.at/ausbildungsprogramme/hoehere-lehranstalt-fuer-tourismus)
 
 FORMAT LAYOUT POSITION CSSMEDIA
-
-![](assets/images/OffsetFolder.png)
 
 ```vbnet
 Module Module1
