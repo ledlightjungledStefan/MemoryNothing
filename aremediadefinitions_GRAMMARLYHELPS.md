@@ -17,18 +17,8 @@ Latexhandschuhe gibt es immer wieder für Suppenbecher. Exklusiv. Ein Latexhands
 Die Citadel Figuren sind ja so ähnlich wie ein Fisch und eine Priatenpistole. Playmobil Tuppfer. Nun am Westbahnhof ist zu Weihnachten die Taucherglockenaction der Piratenpistolentuppfer.
 Irgendein vierer Element wird das Gschaftl schon haben. Billa. Ja bitte. Rechnung.
 
-| More detailed description of the indentation processor |                                                                                                                               | The indentation processor features two key public methods: 'Indent' and 'UnIndent'.                                    |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| `key:<br/>                                             |                                                                                                                               |                                                                                                                        |
-| value`                                                 | Calling the first method implies that we are going into a child node, probably more indented,                                 |                                                                                                                        |
-| `key: value`                                           | But possibly the child is positioned directly after the parent node, like in:                                                 |                                                                                                                        |
-|                                                        | When we continue moving through the stream and meet a new line, the indentation processor checks how much the indentation is. | <mark>If the indentation exceeds that of the previous line, then this line certainly belongs to the child node.</mark> |
-
-id content Laws & Causes vsauce
-
-Otherwise, this layer pretends that this is the end of the stream and sets the EOF.
-
-When the indentation is more, we save the current level to be restored later.
+Nun ja keine weißes Pferd reiten könnte auch sein Entscheidungen in den nächste Baustein mitzunehmen. Also ich löschte den Deckel das folgenden linkes nicht und wählte einen neu zu bearbeitenden Paragraphen des MarkText programmes.
+Shift Umschaltetaste Eingabetaste. Bildschirm ist gleich Aufforderung. 
 
 [Yaml .NET Parser - Documentation](https://yaml-net-parser.sourceforge.net/)
 
