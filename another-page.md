@@ -11,6 +11,42 @@ css:
 
 ![](assets/images/Flme.png)
 
+```vbnet
+' Is e cool nur das nächste ist noch cooler.
+Sub TestEvents()
+    Dim Obj As New Class1
+    ' Associate an event handler with an event.
+    AddHandler Obj.Ev_Event, AddressOf EventHandler
+    ' Call the method to raise the event.
+    Obj.CauseSomeEvent()
+    ' Stop handling events.
+    RemoveHandler Obj.Ev_Event, AddressOf EventHandler
+    ' This event will not be handled.
+    Obj.CauseSomeEvent()
+    ' Associate an event handler with an event, using a lambda.
+    ' This handler cannot be removed.
+    AddHandler Obj.Ev_Event, Sub ()
+        MsgBox("Lambda caught event.")
+    End Sub
+    ' This event will be handled by the lambda above.
+    Obj.CauseSomeEvent()
+End Sub
+
+Sub EventHandler()
+    ' Handle the event.
+    MsgBox("EventHandler caught event.")
+End Sub
+
+Public Class Class1
+    ' Declare an event.
+    Public Event Ev_Event()
+    Sub CauseSomeEvent()
+        ' Raise an event.
+        RaiseEvent Ev_Event()
+    End Sub
+End Class
+```
+
 ```javascript
 function getRectArea(width, height) {
   if (width > 0 && height > 0) {
