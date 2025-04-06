@@ -9,21 +9,50 @@ css:
 
 [NUR NET HUDLN:WEIL. . . -klein Adlerauge-](./NUR_NET_HUDLN.html)
 
-# IHR HABT VERGESSEN DAS PAPIER BASENUMMERN SEIN KÖNNEN
-
-Alles in allem, ich und ein Michi in einem Mietfahrzeug auf einer deutschen Autobahnstrecke. Viele Kilometer nach Essen auch auf dem Rückweg nach Wien. Stau, haha lustig mal Radio einschalten. Stau lichtet sich. Nicht lustig. Highspeedunfall. Die Aufräumtruppen haben nach dem Dienstfahrzeug mit den Blinkschildern linker Hand alle irgendwie Besen um die Splitter von der Straße zu kehren. Mein Gefühl war wie auf einem Operatsionstisch wo man nicht von Glück sprechen kann das Schürfwunden keine bleiche Panik hervorrufen.
-Schwere Stimmung irgendwo zwischen Tod und lieber nicht sagen wie weh das tut. Das Fahrzeug schien die linke Leitplanke geschrammt zu haben und man hätte die Geschwindigkeit das Aufpralls messen können weil das Fahrzeug gut 100 bis 150 Meter auf der rechten Seite den dreispurigen Autobahn lag, gelegen ist. Das Fahrzeug wurde dann auf die linke Seite gebracht wo wir es sahen also nicht wir sahen es auf der rechten Seite. War das piätet oder praktisch?
-Da war mal irgendwo ein Motorblock. Dachte ich mir. Die Fahrerkabine ließ darauf schließen, und ich dachte noch mindestens 50 Kilometer darüber nach, das der Beifahrersitz eher ungeschütz war also die Rückbänke waren noch unter einem Dach. Das Autofrontdach eher dort wo der Motorblock gewesen ist.
-Wenn man von hoher Höhe was schweres fallen lässt würde sich ein kinetisch Beschleunigtes Fahrzeug dem Gewicht anpassen. Wie viel Druck kann ein Mensch zum Vergleich ausüben. Hm?
-Der Druck des ersten Einschlages des Fahrzeuges auf der linken Seite der Autobahn schien wohl zu zeigen wie schwer kinetisch beschleunigte Objekte wirklich sind. Kann sein das sich der Motorblock löste und a bisal Phsyik zeigte.
-Geschwindigkeiten der deutschen und tschechischen Autobahnen 300 bis 350 durchschnittlich.
-Also mein Arbeitskollege fuhr sachlich seine 200 Kilometer pro Stunde. Die Fahrzeuge die hin und wieder links an uns vorbeirauschten waren auch bei gerader Strecke nach 5 bis 10 Sekunden ausser Sichtweite. Kann übertrieben sein. Besser nicht Testen.
-Ein Schiffslenkrad ist sehr breit, ein Sportlenkrad sehr schmal. Ein Punkt auf der vorderen Oberseite eines Lenkrades hat bei geringer Geschwindigkeit weniger Wiederstand. Das die Reaktionszeit sich ablesen lassen könnte führt dazu sagen zu können wenn der sogenannte Spielraum des Punktes einige wenige Millimeter aufweisen sollte ist dei Geschwindigkeit proportional zum Gewicht des Fahrzeugs und der Motorleistung aufgrund der Beschleunigungsmöglichkeit eher so das mehr als 150 ist.
-Eine Nadel im Heuhaufen stell ich mir anders vor.
-
-Apotheke, hm?
-
 ![](assets/images/Flme.png)
+
+```javascript
+function getRectArea(width, height) {
+  if (width > 0 && height > 0) {
+    return width * height;
+  }
+  return 0;
+}
+
+console.log(getRectArea(3, 4));
+// Expected output: 12
+
+console.log(getRectArea(-3, 4));
+// Expected output: 0
+```
+
+Warum üb ich meine Beispiele mit dem hochladen auf github? Größten teils weil die Garantie das usercontent wirklich im Rahmen einer Bestätigung gelöscht wird.
+Wie bei jeder bekannten Seite, soweit ich mich informieren konnte, haben Hackerangriffe auch das Überfluten der Seite mit Accountanlegungen zu tun. Absurde Ideen gibt es zu dem Thema.
+Zwischenzeitlich überlege ich mir wie ich die Return Ausgabe der Funktion `getRectArea`
+
+werten soll. Als Layout oder Position.
+Ich für meinen Fall muss auf MSPaint zurückgreifen können um sowohl die Position als auch das Layout eines Formates angeben zu können. Circuit logic währe entweder oder.
+
+```vbnet
+' Clicking Button1 causes a message box to appear.
+Private Sub Button1_Click(ByVal sender As System.Object, _
+    ByVal e As System.EventArgs) Handles Button1.Click
+    MessageBox.Show("Click here!")
+End Sub
+
+
+' Use the SendKeys.Send method to raise the Button1 click event 
+' and display the message box.
+Private Sub Form1_DoubleClick(ByVal sender As Object, _
+    ByVal e As System.EventArgs) Handles MyBase.DoubleClick
+
+    ' Send the enter key; since the tab stop of Button1 is 0, this
+    ' will trigger the click event.
+    SendKeys.Send("{ENTER}")
+End Sub
+```
+
+Und registriert wird mit der Eingabetaste. Ich könnte dennoch ein anderes Zeichen als dem Tastenlayout entsprechend A an ein Notepad gesendet haben ohne zu wissen wo eines ist. Das Wort Format wird auch bei Textverarbeitung verwendet. Mit Interpolation und auch ohne. Um verstehen zu lernen warum mit dem Befehlswort "Send" iternational stürmische See ist sind Delegaten empfehlenswert mit culture stringformaten. Oder stattdessen offline expected output mit ruby in rake.
 
 ```vbnet
 Private Sub Button_HideLabel(ByVal sender As Object, ByVal e As EventArgs)
