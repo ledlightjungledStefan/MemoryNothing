@@ -11,21 +11,8 @@ css:
 
 ## Eine Tabelle mit Tooltips -not shuffled-, ist VisibleChanged?
 
-Es könnte 50 50 sein, das Dokumentationen weil keine Library/Bücherei abrufbar ist, kein direktes Ziel sind.
-Die Bücherei Urban Loritz Platz hat Arbeitsflächen, möglich. Ein Tisch ist von der Fläche im Vergleich mit einem Nährbodenbecher/Substrat eines Marktes auch ohne Tages oder Jahreskarte nicht das Ziel.
-Kräutersamen und Flüssigkeiten sowie ein wenig Erde können EIN Ziel sein. Müssen aber nicht mein Ziel sein.
-Ich kann nicht einen Bildschrim ohne Rahmengerüst in einem Tisch versenken. Die Fläche auch ohne Bildschirm ist eben. Midnigth lemonade.
-Barrierefreiheit ist alles und ohne PASSENDER/ANWENDBARER Krücke/Clutch nichts auch mit elektrischen Geräten.
-Nicht alle Geräte sind an physikalischen und chemischen Prozessoren angemeldet.
-Ein Kamm und Seidenpapier könnten statt dem GLücksspiel, allgemein, bei einer Bucht/bay Lebensmittelverfallsdatum ergänzen.
-PowidL ist Zwetschckenmarmelade.
-XCom enemy unknowen "er hat angefangen er hat statt einem Straßenhüttchen auf mich geschoßen".
-Fassend,
-ich konnte dem mischen Aufmerksamkeit widmen.
-Das Wasser war gut.
-Ohne meiner Anwesenheit sind die Tomaten in der Natur.
-575 440 px mspaint scaled 100% resoluted 1920 1200
-<img src="file:///C:/Users/plane/OneDrive/Dokumente/_DiePhysik-der-Wahrnehmung/MemoryNothing/assets/images/Fhora.png" title="" alt="" data-align="inline">
+
+![](C:\Users\plane\OneDrive\Dokumente\_DiePhysik-der-Wahrnehmung\MemoryNothing\assets\images\AmIABLE.png)
 
 [Yaml .NET Parser - Documentation](https://yaml-net-parser.sourceforge.net/)
 
