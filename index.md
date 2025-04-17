@@ -2,22 +2,7 @@
 layout: default
 ---
 
-wenn david jones schiff ein phasenrpüfer in einem holzfass ist
-dann ist ein bernhardiner ein hund
-wenn ein lautstarkes fahrzeug ein hupsignal erhält das es nicht hören kann
-wie hoch ist die spannung der netzübertragung
-was währe ein bernhadiner stattdessen
-42er
-
-on top of it was ist ein phasenprüfer david jones schiff topping
-
-im englischen sprachraum gibt es ein wort wenn gestritten wird seit wann von bis zeit in anspruch genommen hätte werden. . . punkti punkti punkti
-wenn nicht teilgenommen wird.
-grounded
-mein erster behindertenpass
-das kann gar nicht sein
-unbefristet
-was fragezeichen
+mit der seite freecash schätze ich ist die frage welche karten werden von paypal abgelehnt und welche steam karten eine rolle spielen.
 
 # Edge oder Edge mit IE Registerkarte. Firefox.
 
