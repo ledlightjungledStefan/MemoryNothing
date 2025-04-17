@@ -2,6 +2,13 @@
 layout: default
 ---
 
+wenn david jones schiff ein phasenrpüfer in einem holzfass ist
+dann ist ein bernhardiner ein hund
+wenn ein lautstarkes fahrzeug ein hupsignal erhält das es nicht hören kann
+wie hoch ist die spannung der netzübertragung
+was währe ein bernhadiner stattdessen
+42er
+
 on top of it was ist ein phasenprüfer david jones schiff topping
 
 im englischen sprachraum gibt es ein wort wenn gestritten wird seit wann von bis zeit in anspruch genommen hätte werden. . . punkti punkti punkti
