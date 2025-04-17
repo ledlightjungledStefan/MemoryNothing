@@ -2,6 +2,14 @@
 layout: default
 ---
 
+im englischen sprachraum gibt es ein wort wenn gestritten wird seit wann von bis zeit in anspruch genommen hätte werden. . . punkti punkti punkti
+wenn nicht teilgenommen wird.
+grounded
+mein erster behindertenpass
+das kann gar nicht sein
+unbefristet
+was fragezeichen
+
 # Edge oder Edge mit IE Registerkarte. Firefox.
 
 ![](assets/images/googleGO!.png)
