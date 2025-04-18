@@ -2,7 +2,7 @@
 layout: default
 ---
 
-mit der seite freecash schätze ich ist die frage welche karten werden von paypal abgelehnt und welche steam karten eine rolle spielen.
+zum Beispiel crataegut kann nicht überall getrunken werden, weil
 
 # Edge oder Edge mit IE Registerkarte. Firefox.
 
