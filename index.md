@@ -8,7 +8,12 @@ Apps können aufgrund von Änderungen an der Architektur, den Sicherheitsfeature
 
 ![](C:\Users\plane\OneDrive\Dokumente\_DiePhysik-der-Wahrnehmung\MemoryNothing\assets\images\Word_entwicklung.png)
 
-super mario bros 2 character pokey könnte auch die Buchstaben RT sein - round time - und eine waschmaschine eine trommel.
+super mario bros 2 character
+könnte auch die Buchstaben RT sein - round time - und eine waschmaschine eine trommel.
+
+```batch
+
+```
 
 Ein Metronom ist gleich tekkno und Klang kann nur geübt werden mit PASSENDEN in true <s> men ten women ten fifty fifty.
 The watch neighbour of the third kind includes a sound properties device. Metric calculations are not only for weight and picture scales.
