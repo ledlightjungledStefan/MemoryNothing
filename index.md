@@ -2,8 +2,8 @@
 layout: default
 ---
 
-![](C:\Users\plane\OneDrive\Dokumente\_DiePhysik-der-Wahrnehmung\MemoryNothing\assets\images\Word_entwicklung.png)
-InkPaper Preisetiketten werden in einem Mömax Outlet der SCS nur Filialweit aktualisiert nicht über den gesamten Firmenbereich. Nur in dem Markt in dem die Preisschilder sind.
+
+![](\assets\images\Word_entwicklung.png)InkPaper Preisetiketten werden in einem Mömax Outlet der SCS nur Filialweit aktualisiert nicht über den gesamten Firmenbereich. Nur in dem Markt in dem die Preisschilder sind.
 Ich fragte einen Verkäufer.
 
 Wenn ein Preisschild abgelichtet werden könnte würde das Sinn machen wenn das Managment einen Produktbereich gegen einen Sticker ersetzen lassen würde.
