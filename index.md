@@ -13,6 +13,8 @@ Schrödinger könnten auch Schlichtplanschachteln sein die im Altpapier das pass
 Oben sind Puzzleteile nicht weiter geschlifen.
 Ein Icon eines Karteikartenreiters kann mit InkScape sowohl im Pixelbereich als auch im ScaleVektorGraphikbereich dargestellt werden.
 
+![](assets/images/Fhora.png)
+
 # [VS Code: How to Compare Two Files (Find the Difference)](https://www.kindacode.com/article/vs-code-how-to-compare-two-files-find-the-difference#:~:text=Find%20the%20Difference)
 
 ![](assets/images/googleGO!.png)
