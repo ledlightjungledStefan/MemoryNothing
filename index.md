@@ -19,4 +19,6 @@ Ein Icon eines Karteikartenreiters kann mit InkScape sowohl im Pixelbereich als 
 
 ![](assets/images/googleGO!.png)
 
+![](assets/images/yelpit.png)
+
 # [(PDF) Evolution of spatiotemporal resolvability in the technical development of stop-motion](https://www.academia.edu/43666472/Evolution_of_spatiotemporal_resolvability_in_the_technical_development_of_stop_motion)
